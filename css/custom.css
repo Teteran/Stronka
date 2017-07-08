@@ -1,4 +1,22 @@
-body > .container {
-  padding-top: 60px;
-  color: red;
+.navbar-wrapper{
+  margin-top: 20px;
+}
+
+body{
+  background-color: #5e5d5d;
+}
+
+.footer > div > h3{
+  color: #9d9d9d;
+  margin: 10px 10px;
+}
+
+.menu {
+   float: left;
+   min-width: 100px;
+   margin-left: 15px;
+}
+.context {
+  margin-left: 120px;
+  margin-top: 20px;
 }
