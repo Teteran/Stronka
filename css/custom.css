@@ -11,11 +11,12 @@ body{
   margin: 10px 10px;
 }
 
-.menu{
-  float: left;
-
+.menu {
+   float: left;
+   min-width: 100px;
+   margin-left: 15px;
 }
-
-.body{
-  float: left;
+.context {
+  margin-left: 120px;
+  margin-top: 20px;
 }
